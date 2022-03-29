@@ -1,0 +1,6 @@
+d:\Orta Seviye .net Core\C#\MovieStore\MovieStore.WebApi.UnitTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+d:\Orta Seviye .net Core\C#\MovieStore\MovieStore.WebApi.UnitTests\obj\Debug\net6.0\MovieStore.WebApi.UnitTests.csproj.AssemblyReference.cache
+d:\Orta Seviye .net Core\C#\MovieStore\MovieStore.WebApi.UnitTests\obj\Debug\net6.0\MovieStore.WebApi.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+d:\Orta Seviye .net Core\C#\MovieStore\MovieStore.WebApi.UnitTests\obj\Debug\net6.0\MovieStore.WebApi.UnitTests.AssemblyInfoInputs.cache
+d:\Orta Seviye .net Core\C#\MovieStore\MovieStore.WebApi.UnitTests\obj\Debug\net6.0\MovieStore.WebApi.UnitTests.AssemblyInfo.cs
+d:\Orta Seviye .net Core\C#\MovieStore\MovieStore.WebApi.UnitTests\obj\Debug\net6.0\MovieStore.WebApi.UnitTests.csproj.CoreCompileInputs.cache
